@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<loadpath>
+	<pathentry path="" type="src"/>
+	<pathentry exported="true" path="org.rubypeople.rdt.launching.RUBY_CONTAINER" type="con"/>
+	<pathentry path="C:/Program Files/MySQL/MySQL Server 5.1/bin" type="lib"/>
+	<pathentry path="C:/pleiades-all-in-one-ruby-jre_20090426/InstantRails/ruby/lib/ruby/site_ruby/1.8" type="lib"/>
+</loadpath>
