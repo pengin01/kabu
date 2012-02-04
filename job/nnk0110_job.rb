@@ -3,6 +3,7 @@ require 'open-uri'
 require 'rubygems'
 require 'kconv'
 require 'hpricot'
+require 'filename_properties'
 
 
 
@@ -22,7 +23,7 @@ require 'hpricot'
   String url_8 = "http://www.meigaracode.com/8zen_meigaracode.html"
   String url_9 = "/9shijou_meigaracode.html"
 
-  file_name = "nnk0110_job.txt"
+  file_name = FILE_NAME::BRAND_CODE + FILE_NAME::EXTENSIION
   foo = File.open(file_name,'w')
 
   doc = Hpricot(open(url_8))
@@ -31,7 +32,8 @@ require 'hpricot'
   tmp = doc/:span
   tmp.each { |span|
      out = span.inner_text.split(" ",2)
-     puts out[0] + "," + out[1]
+     foo.puts out[0] + "," + out[1]
+     inserted = true
   }
 
   foo.close
