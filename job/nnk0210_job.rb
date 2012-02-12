@@ -1,28 +1,25 @@
-require 'net/http'
 require 'rubygems'
 require 'kconv'
 require 'hpricot'
 require 'dbi'
-require 'connection_maker.rb'
-require 'lookup_get.rb'
+require 'open-uri'
 
 #会社情報取得－ファイル出力ＪＯＢ
 
 def search(num,file_name)
 
-  String url = "profile.yahoo.co.jp"
-  String url_1 = "/independent/" + num
+	foo = File.open(file_name,'a')
 
-  Net::HTTP.version_1_2
-  Net::HTTP.start(url, 80) {|http|
+	String url = "http://www.profile.yahoo.co.jp/independent/"
+	doc = Hpricot(open(url + num))
 
-    response = http.request_get( url_1 )
-    doc = Hpricot(Kconv.kconv(response.body,Kconv::UTF8))
+	#doc = Hpricot(Kconv.kconv(response.body,Kconv::UTF8))
 
-
-    foo = File.open(file_name,'a')
-    tmp = doc/"table[@cellpadding='5']"
-    #    puts tmp
+	
+		
+	
+	tmp = doc/"table[@cellpadding='5']"
+  #    puts tmp
 
     bps = ""
     touri = ""
@@ -61,8 +58,7 @@ def search(num,file_name)
 end
 
 #ファイル出力
-conn = ConectionMaker.new.getConnct()
-file_name = LookupGet.new.getLookup(conn,"FILE_NAME","CORPORATE_INFO_BPS")
+file_name = "corporate_info_bps.txt"
 f = File.open(file_name,'w')
 f.close
 
