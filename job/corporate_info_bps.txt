@@ -1,0 +1,514 @@
+<div id="right_col">
+
+<h1 class="pro_title2"><img src="http://i.yimg.jp/images/finance/pr/pro_title_0302.gif" alt="ñ�ȷ軻���" /></h1>
+<div class="yjSt info" align="right">�ǽ���������2012ǯ2��7��</div>
+
+
+<table cellspacing="0" border="0" width="100%" cellpadding="0">
+<tr bgcolor="#a3c5ec">
+<td>
+<table class="yjMt" cellspacing="1" border="0" width="100%" cellpadding="5">
+<tr align="center" bgcolor="#ddedff">
+<td width="25%">��</td>
+<td width="25%">����</td>
+<td width="25%">2����</td>
+<td width="25%">3����</td>
+</tr>
+
+<tr bgcolor="#ffffff">
+<td bgcolor="#ebf4ff">�軻��</td>
+<td align="right">2011ǯ2���</td>
+<td align="right">2010ǯ2���</td>
+<td align="right">2009ǯ2���</td>
+</tr>
+
+<tr bgcolor="#ffffff">
+<td bgcolor="#ebf4ff">�軻ȯɽ��</td>
+<td align="right">2011ǯ4��11��</td>
+<td align="right">2010ǯ4��12��</td>
+<td align="right">2009ǯ4��13��</td>
+</tr>
+<tr bgcolor="#ffffff">
+<td bgcolor="#ebf4ff">�軻���</td>
+<td align="right">12����</td>
+<td align="right">12����</td>
+<td align="right">12����</td>
+</tr>
+<tr bgcolor="#ffffff">
+<td bgcolor="#ebf4ff">����</td>
+<td align="right">1,275ɴ����</td>
+<td align="right">1,281ɴ����</td>
+<td align="right">1,280ɴ����</td>
+</tr>
+<tr bgcolor="#ffffff">
+<td bgcolor="#ebf4ff">�Ķ�����</td>
+<td align="right">813ɴ����</td>
+<td align="right">812ɴ����</td>
+<td align="right">854ɴ����</td>
+</tr>
+<tr bgcolor="#ffffff">
+<td bgcolor="#ebf4ff">�о�����</td>
+<td align="right">791ɴ����</td>
+<td align="right">770ɴ����</td>
+<td align="right">816ɴ����</td>
+</tr>
+<tr bgcolor="#ffffff">
+<td bgcolor="#ebf4ff">��������</td>
+<td align="right">696ɴ����</td>
+<td align="right">694ɴ����</td>
+<td align="right">703ɴ����</td>
+</tr>
+<tr bgcolor="#ffffff">
+<td bgcolor="#ebf4ff">EPS�ʰ�����������ס�</td>
+<td align="right">23.94��</td>
+<td align="right">23.85��</td>
+<td align="right">23.47��</td>
+</tr>
+<tr bgcolor="#ffffff">
+<td bgcolor="#ebf4ff">Ĵ���������������</td>
+<td align="right">����</td>
+<td align="right">����</td>
+<td align="right">����</td>
+</tr>
+<tr bgcolor="#ffffff">
+<td bgcolor="#ebf4ff">1������</td>
+<td align="right">20.00��</td>
+<td align="right">20.00��</td>
+<td align="right">20.00��</td>
+</tr>
+<tr bgcolor="#ffffff">
+<td bgcolor="#ebf4ff">������ʬ</td>
+<td align="right">---</td>
+<td align="right">---</td>
+<td align="right">---</td>
+</tr>
+<tr bgcolor="#ffffff">
+<td bgcolor="#ebf4ff">BPS�ʰ���������񻺡�</td>
+<td align="right">834.20��</td>
+<td align="right">829.67��</td>
+<td align="right">827.70��</td>
+</tr>
+<tr bgcolor="#ffffff">
+<td bgcolor="#ebf4ff">ȯ�ԺѤ߳�������</td>
+<td align="right">30,331���</td>
+<td align="right">30,631���</td>
+<td align="right">30,631���</td>
+</tr>
+<tr bgcolor="#ffffff">
+<td bgcolor="#ebf4ff">����</td>
+<td align="right">32,763ɴ����</td>
+<td align="right">31,654ɴ����</td>
+<td align="right">31,593ɴ����</td>
+</tr>
+<tr bgcolor="#ffffff">
+<td bgcolor="#ebf4ff">���ʻ���</td>
+<td align="right">24,206ɴ����</td>
+<td align="right">24,126ɴ����</td>
+<td align="right">24,406ɴ����</td>
+</tr>
+<tr bgcolor="#ffffff">
+<td bgcolor="#ebf4ff">���ܶ�</td>
+<td align="right">2,486ɴ����</td>
+<td align="right">2,486ɴ����</td>
+<td align="right">2,486ɴ����</td>
+</tr>
+
+<tr bgcolor="#ffffff">
+<td bgcolor="#ebf4ff">ͭ�������</td>
+<td align="right">8,373ɴ����</td>
+<td align="right">7,400ɴ����</td>
+<td align="right">7,080ɴ����</td>
+</tr>
+<tr bgcolor="#ffffff">
+<td bgcolor="#ebf4ff">����»��</td>
+<td align="right">---</td>
+<td align="right">---</td>
+<td align="right">---</td>
+</tr>
+
+<tr bgcolor="#ffffff">
+<td bgcolor="#ebf4ff">���ʻ�����Ψ</td>
+<td align="right">73.9%</td>
+<td align="right">76.2%</td>
+<td align="right">77.3%</td>
+</tr>
+
+<tr bgcolor="#ffffff">
+<td bgcolor="#ebf4ff">�ޤ�»��</td>
+<td align="right">---</td>
+<td align="right">---</td>
+<td align="right">---</td>
+</tr>
+<tr bgcolor="#ffffff">
+<td bgcolor="#ebf4ff">ROA����������Ψ��</td>
+<td align="right">2.16%</td>
+<td align="right">2.19%</td>
+<td align="right">2.29%</td>
+</tr>
+<tr bgcolor="#ffffff">
+<td bgcolor="#ebf4ff">ROE�ʼ��ʻ�������Ψ��</td>
+<td align="right">2.88%</td>
+<td align="right">2.86%</td>
+<td align="right">2.85%</td>
+</tr>
+<tr bgcolor="#ffffff">
+<td bgcolor="#ebf4ff">���񻺷о�����Ψ</td>
+<td align="right">2.46%</td>
+<td align="right">2.43%</td>
+<td align="right">2.65%</td>
+</tr>
+</table>
+</td>
+</tr>
+
+<tr>
+<td class="yjSt" align="right">�ƹ��ܤΰ�̣�ˤĤ��Ƥ�<a href="http://help.yahoo.co.jp/help/jp/finance/finance-25.html">������</a>������������<br />
+ɽ������Ƥ������Ϸ軻ȯɽ������1���ָ�˹������Ƥ��ޤ���</td>
+</tr>
+</table>
+
+
+
+</div>
+
+
+
+最終更新日：2012年2月7日
+
+
+
+
+
+
+
+　
+前期
+2期前
+3期前
+
+
+
+決算期
+2011年2月期
+2010年2月期
+2009年2月期
+
+
+
+決算発表日
+2011年4月11日
+2010年4月12日
+2009年4月13日
+
+
+決算月数
+12か月
+12か月
+12か月
+
+
+売上高
+1,275百万円
+1,281百万円
+1,280百万円
+
+
+営業利益
+813百万円
+812百万円
+854百万円
+
+
+経常利益
+791百万円
+770百万円
+816百万円
+
+
+当期利益
+696百万円
+694百万円
+703百万円
+
+
+EPS（一株当たり利益）
+23.94円
+23.85円
+23.47円
+
+
+調整一株当たり利益
+‐円
+‐円
+‐円
+
+
+1株配当
+20.00円
+20.00円
+20.00円
+
+
+配当区分
+---
+---
+---
+
+
+BPS（一株当たり純資産）
+834.20円
+829.67円
+827.70円
+
+
+発行済み株式総数
+30,331千株
+30,631千株
+30,631千株
+
+
+総資産
+32,763百万円
+31,654百万円
+31,593百万円
+
+
+自己資本
+24,206百万円
+24,126百万円
+24,406百万円
+
+
+資本金
+2,486百万円
+2,486百万円
+2,486百万円
+
+
+
+有利子負債
+8,373百万円
+7,400百万円
+7,080百万円
+
+
+繰越損益
+---
+---
+---
+
+
+
+自己資本比率
+73.9%
+76.2%
+77.3%
+
+
+
+含み損益
+---
+---
+---
+
+
+ROA（総資産利益率）
+2.16%
+2.19%
+2.29%
+
+
+ROE（自己資本利益率）
+2.88%
+2.86%
+2.85%
+
+
+総資産経常利益率
+2.46%
+2.43%
+2.65%
+
+
+
+
+
+
+各項目の意味についてはこちらをご覧下さい。
+表示されている情報は決算発表から約1週間後に更新しています。
+
+
+
+
+
+
+
+
+最終更新日：2012年2月7日
+
+
+
+
+
+
+
+　
+前期
+2期前
+3期前
+
+
+
+決算期
+2011年2月期
+2010年2月期
+2009年2月期
+
+
+
+決算発表日
+2011年4月11日
+2010年4月12日
+2009年4月13日
+
+
+決算月数
+12か月
+12か月
+12か月
+
+
+売上高
+1,275百万円
+1,281百万円
+1,280百万円
+
+
+営業利益
+813百万円
+812百万円
+854百万円
+
+
+経常利益
+791百万円
+770百万円
+816百万円
+
+
+当期利益
+696百万円
+694百万円
+703百万円
+
+
+EPS（一株当たり利益）
+23.94円
+23.85円
+23.47円
+
+
+調整一株当たり利益
+‐円
+‐円
+‐円
+
+
+1株配当
+20.00円
+20.00円
+20.00円
+
+
+配当区分
+---
+---
+---
+
+
+BPS（一株当たり純資産）
+834.20円
+829.67円
+827.70円
+
+
+発行済み株式総数
+30,331千株
+30,631千株
+30,631千株
+
+
+総資産
+32,763百万円
+31,654百万円
+31,593百万円
+
+
+自己資本
+24,206百万円
+24,126百万円
+24,406百万円
+
+
+資本金
+2,486百万円
+2,486百万円
+2,486百万円
+
+
+
+有利子負債
+8,373百万円
+7,400百万円
+7,080百万円
+
+
+繰越損益
+---
+---
+---
+
+
+
+自己資本比率
+73.9%
+76.2%
+77.3%
+
+
+
+含み損益
+---
+---
+---
+
+
+ROA（総資産利益率）
+2.16%
+2.19%
+2.29%
+
+
+ROE（自己資本利益率）
+2.88%
+2.86%
+2.85%
+
+
+総資産経常利益率
+2.46%
+2.43%
+2.65%
+
+
+
+
+
+
+各項目の意味についてはこちらをご覧下さい。
+表示されている情報は決算発表から約1週間後に更新しています。
+
+
+
+
+

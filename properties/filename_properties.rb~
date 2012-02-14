@@ -1,0 +1,6 @@
+module filename_properties
+
+	EXTENSIION_TXT = "txt"
+	FILE_BRAND_CODE = "brand_code"
+
+end
