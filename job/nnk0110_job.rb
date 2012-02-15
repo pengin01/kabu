@@ -23,7 +23,7 @@ require 'filename_properties'
   String url_8 = "http://www.meigaracode.com/8zen_meigaracode.html"
   String url_9 = "/9shijou_meigaracode.html"
 
-  file_name = FILE_NAME::BRAND_CODE + FILE_NAME::EXTENSIION
+  file_name = FILE_NAME::OUT_PATH + FILE_NAME::BRAND_CODE + FILE_NAME::EXTENSIION
   foo = File.open(file_name,'w')
 
   doc = Hpricot(open(url_8))
