@@ -1,7 +1,5 @@
-$LOAD_PATH << File.dirname(__FILE__)
 require 'open-uri'
 require 'rubygems'
-require 'kconv'
 require 'hpricot'
 require 'filename_properties'
 

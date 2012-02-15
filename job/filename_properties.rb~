@@ -1,7 +1,0 @@
-module FILE_NAME
-
-	OUT_PATH = "../output/"
-	EXTENSIION = ".txt"
-	BRAND_CODE = "brand_code"
-
-end

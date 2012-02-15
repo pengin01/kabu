@@ -2,18 +2,21 @@ require 'rubygems'
 require 'kconv'
 require 'hpricot'
 require 'open-uri'
+require 'filename_properties'
 
 #会社情報取得－ファイル出力ＪＯＢ
 
 def search(num,file_name)
 
-	bps = ""
-	curr_profit = ""
-	f = File.open("../output/" + file_name,'a')
+
+	f = File.open(file_name,'a')
 
 	String url = "http://profile.yahoo.co.jp/independent/"
+	bps = ""
+	curr_profit = ""
+	
+	
 	doc = Hpricot(open(url + num))
-	#puts Kconv.toutf8(doc)
 	tmp = doc/"table.yjMt"
 	tmp.each { |table| 
 		(table/"tr").each { |tr| 
