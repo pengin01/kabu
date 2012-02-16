@@ -8,8 +8,7 @@ require 'filename_properties'
 
 def search(num,file_name)
 
-	bps = ""
-	curr_profit = ""
+	under_stock = "0"
 	f = File.open(file_name,'a')
 
 	String url = "http://stocks.finance.yahoo.co.jp/stocks/profile/?code="
@@ -20,17 +19,19 @@ def search(num,file_name)
 
 				# 最低購入枚数 取得
 				if (Kconv.toutf8(td.inner_text) =~ /[0-9]+株/ )
-						puts Kconv.toutf8(td.inner_text)
+						under_stock = Kconv.toutf8(td.inner_text).gsub(/株/, "").gsub(/---/, "0")
+						break
 				end
 		}
 	}
 
-	f.puts [num, bps, curr_profit].join(",")
+	f.puts [num, under_stock].join(",")
 	inserted = true
    f.close
 end
 brand_cd = "8008"
-file_name = FILE_NAME::OUT_PATH + "corporate_under_stock_info.txt"
+file_name = FILE_NAME::OUT_PATH + FILE_NAME::C_UNDER_STOCK + FILE_NAME::EXTENSIION
+
 #ファイル出力
 search(brand_cd, file_name)
 

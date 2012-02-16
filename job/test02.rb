@@ -44,7 +44,7 @@ def search(num,file_name)
    f.close
 end
 brand_cd = "8008"
-file_name = FILE_NAME::OUT_PATH + FILE_NAME::BPS_INFO + FILE_NAME::EXTENSIION
+file_name = FILE_NAME::OUT_PATH + FILE_NAME::C_BPS + FILE_NAME::EXTENSIION
 #ファイル出力
 search(brand_cd, file_name)
 
